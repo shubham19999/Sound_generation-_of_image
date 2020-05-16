@@ -5,3 +5,7 @@ The main idea of the model is to develop a mechanism which analyses an image on 
 The model was able to delineate the intended results. It was able to correctly produce the desired sounds based on the objects and surroundings present in an image. For the testing purpose, various pictures of different backgrounds like the beach, stadium, underwater were used and the results were great. This model can be considered as a great alternative to the present baseline methods in this field.
 
 ![](Dhwani_image/Flow_diag.JPG)
+
+Architecture:
+
+![](Dhwani_image/Dhwani.JPG)
