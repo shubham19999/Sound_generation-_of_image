@@ -12,4 +12,11 @@ Architecture:
 
 Swiping function:
 
+* Color extraction
+
+![](Dhwani_image/.JPG)
+
+* Mouse cursor control
+* Performing left and right swipe
+
 ![](Dhwani_image/swipe.JPG)
