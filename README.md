@@ -14,9 +14,12 @@ Swiping function:
 
 * Color extraction
 
-![](Dhwani_image/.JPG)
+![](Dhwani_image/detection.JPG)
 
 * Mouse cursor control
+
+![](Dhwani_image/HG.JPG)
+
 * Performing left and right swipe
 
 ![](Dhwani_image/swipe.JPG)
