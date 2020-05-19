@@ -9,3 +9,7 @@ The model was able to delineate the intended results. It was able to correctly p
 Architecture:
 
 ![](Dhwani_image/Dhwani.JPG)
+
+Swiping function:
+
+![](Dhwani_image/swipe.JPG)
