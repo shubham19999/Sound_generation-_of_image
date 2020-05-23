@@ -23,3 +23,4 @@ Swiping function:
 * Performing left and right swipe
 
 ![](Dhwani_image/swipe.JPG)
+
